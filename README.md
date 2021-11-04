@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @handsupmin
 - 👀 I’m interested in Back-end
-- 🌱 I’m currently learning about Algorithm
+- 🌱 I’m currently learning about C#, .NET and Azure
 - 📫 How to reach me thstkdals0318@gmail.com
 
 <!---
