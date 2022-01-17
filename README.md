@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sangmin Son
+- 👋 Hi, I’m handsupmin(Sangmin Son)
 - 👀 I’m interested in Back-end
 - 🌱 I’m currently learning about C#, .NET and Azure
 - 📫 How to reach me thstkdals0318@gmail.com
