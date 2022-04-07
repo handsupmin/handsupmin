@@ -3,7 +3,7 @@
 
 ## Back-end Engineer
 
-[![Sangmin Son's GitHub stats](https://github-readme-stats.vercel.app/api?username=handsupmin&count_private=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Sangmin Son's stats](https://github-readme-stats.vercel.app/api?username=handsupmin&count_private=true&theme=discord_old_blurple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
