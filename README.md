@@ -1,5 +1,5 @@
 # Sangmin Son
-***"A rolling developer gathers no moss."***
+***"Programming is Art."***
 
 ## Back-end Engineer
 
