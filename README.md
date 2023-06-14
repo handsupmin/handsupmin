@@ -10,6 +10,3 @@
 ### Wakatime (2023.01 ~ )  
 [![Sangmin Son's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=handsupmin&theme=dark)](https://wakatime.com/@handsupmin)
 <br/>
-
-[![Sangmin Son's stats](https://github-readme-stats.vercel.app/api?username=handsupmin&count_private=true&theme=discord_old_blurple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
