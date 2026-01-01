@@ -59,14 +59,6 @@ Backend Engineer focused on **building reliable and scalable systems**.
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=handsupmin&theme=tokyonight" />
-</p>
-
----
-
 ## 🧩 What I Enjoy Working On
 
 - backend architecture & system design
