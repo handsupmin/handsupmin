@@ -1,8 +1,94 @@
-# Sangmin Son
-***"Programming is Art."***
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Programming+is+Art;Make+it+better+than+yesterday;Backend+Engineer;System+Architecture+%26+Design;Reliability+%26+Observability"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
-## Back-end Engineer
-### Skills
+<p align="center">
+  <i>Programming is Art.</i><br/>
+  <b>Just trying to make things better than yesterday.</b>
+</p>
 
-![c#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white) ![mssql](https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white) ![javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 <br/>
+
+---
+
+## 👋 handsupmin
+
+Backend Engineer focused on **building reliable and scalable systems**.
+
+---
+
+## 👨‍💻 I Care About
+
+- system behavior under real-world traffic
+- observability over assumptions
+- trade-offs, not just “best practices”
+- making small improvements consistently
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs" />
+</p>
+
+### Backend Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,fastapi,django,dotnet" />
+</p>
+
+### Data / Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,prisma,aws,azure,docker,kubernetes" />
+</p>
+
+### Observability / Async / Web3
+
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,redis,solidity,sentry" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=handsupmin&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 What I Enjoy Working On
+
+- backend architecture & system design
+- observability, monitoring, and alerting
+- async processing & background workers
+- blockchain infrastructure & off-chain systems
+- refactoring legacy systems safely
+
+---
+
+## 📌 Currently Thinking About
+
+- making systems observable by default
+- choosing trade-offs over blindly following best practices
+- understanding when abstractions help — and when they hurt
+
+---
+
+## 🤝 Contact
+
+<p>
+  <a href="mailto:thstkdals0318@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
