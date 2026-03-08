@@ -22,15 +22,6 @@ Backend Engineer focused on **building reliable and scalable systems**.
 
 ---
 
-## 👨‍💻 I Care About
-
-- system behavior under real-world traffic
-- observability over assumptions
-- trade-offs, not just “best practices”
-- making small improvements consistently
-
----
-
 ## 🧰 Tech Stack
 
 ### Languages
@@ -56,24 +47,6 @@ Backend Engineer focused on **building reliable and scalable systems**.
 <p>
   <img src="https://skillicons.dev/icons?i=grafana,redis,solidity,sentry" />
 </p>
-
----
-
-## 🧩 What I Enjoy Working On
-
-- backend architecture & system design
-- observability, monitoring, and alerting
-- async processing & background workers
-- blockchain infrastructure & off-chain systems
-- refactoring legacy systems safely
-
----
-
-## 📌 Currently Thinking About
-
-- making systems observable by default
-- choosing trade-offs over blindly following best practices
-- understanding when abstractions help — and when they hurt
 
 ---
 
