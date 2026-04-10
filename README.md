@@ -20,6 +20,8 @@
 
 Backend Engineer focused on **building reliable and scalable systems**.
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/handsupmin/svg)](https://tokscale.ai/u/handsupmin)
+
 ---
 
 ## 🧰 Tech Stack
